@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurashidov Shahzod</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/AbdurashidovShahzod?tab=repositories](https://github.com/AbdurashidovShahzod?tab=repositories)
 
-- 📫 How to reach me **t.me/studentTUIT,shahzod9933@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
