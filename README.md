@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurashidov Shahzod</h1>
 
-
+![image](https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahzod95364351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shahzod95364351" height="30" width="40" /></a>
