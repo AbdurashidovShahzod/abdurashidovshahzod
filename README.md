@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdurashidov Shahzod</h1>
 
-![image](https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png)![gg](https://user-images.githubusercontent.com/61906391/106376300-cfb66680-63b5-11eb-98be-42642f30ad6e.png)
+![image](https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
