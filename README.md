@@ -1,21 +1,86 @@
-<h1 align="center">Hi 👋, I'm Abdurashidov Shahzod</h1>
-
-![image](https://user-images.githubusercontent.com/61906391/104982286-28881580-5a2c-11eb-83b3-1c5b95566b64.png)
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahzod95364351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shahzod95364351" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahzod-abdurashidov-5353b1202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shahzod-abdurashidov-5353b1202/" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzod__abdurashidov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shahzod__abdurashidov" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shahzod%20Abdurashidov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Clean%20Architecture&descAlignY=60&descSize=18" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a><a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </a></a <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Engineer+%40+Ipoteka+Bank+OTP+Group;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Clean+Architecture+enthusiast;Based+in+Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurashidovshahzod&show_icons=true&locale=en&layout=compact" alt="abdurashidovshahzod" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahzodabdurashidov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/AbdurashidovSh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/shahzod__abdurashidov"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:shahzod9933@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AbdurashidovShahzod&style=for-the-badge&color=3DDC84&label=Profile+views" alt="Profile views" />
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurashidovshahzod&show_icons=true&locale=en" alt="abdurashidovshahzod" /></p>
+### 👨‍💻 About me
+
+```kotlin
+object Shahzod {
+    val role      = "Android Engineer"
+    val company   = "Ipoteka Bank · OTP Group"
+    val location  = "Tashkent, Uzbekistan"
+    val focus     = listOf("Jetpack Compose", "Clean Architecture", "MVVM", "Coroutines & Flow")
+    val exploring = listOf("Kotlin Multiplatform", "Ktor", "SwiftUI")
+    val languages = listOf("Uzbek", "Russian", "English")
+}
+```
+
+### 🛠 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,dart,go&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,git,github,postman,figma&theme=dark" alt="tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-2C3E50?style=flat-square&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" />
+</p>
+
+### 📌 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏦 [Bank-Clean-architecture](https://github.com/AbdurashidovShahzod/Bank-Clean-architecture) | Banking app on Clean Architecture with Dagger 2 | Kotlin · Dagger 2 |
+| 🎨 [ComposeCleanArchitecture](https://github.com/AbdurashidovShahzod/ComposeCleanArchitecture) | Compose + Clean Architecture with MVVM | Kotlin · Compose |
+| 🍏 [iOS_UI_Android](https://github.com/AbdurashidovShahzod/iOS_UI_Android) | iOS UI components for Android developers | Kotlin · Custom Views |
+| ⚡ [pl_ktor_backend](https://github.com/AbdurashidovShahzod/pl_ktor_backend) | Ktor server and client | Kotlin · Ktor |
+| 🏃 [LikeRun](https://github.com/AbdurashidovShahzod/LikeRun) | Android app | Kotlin |
+| 💳 [Kredit_kalkulyatori_IOS](https://github.com/AbdurashidovShahzod/Kredit_kalkulyatori_IOS) | Loan calculator for iOS | Swift |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurashidovShahzod&theme=tokyonight" alt="profile details" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurashidovShahzod&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurashidovShahzod&theme=tokyonight" alt="repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurashidovShahzod&theme=tokyonight" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdurashidovShahzod&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61906391/214832114-f0a347b5-5c5b-429d-8e98-3539be67014c.svg" alt="contribution snake" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+</p>
