@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shahzod%20Abdurashidov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Clean%20Architecture&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shahzod%20Abdurashidov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend%20%E2%80%A2%20Clean%20Architecture&descAlignY=60&descSize=18" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Engineer+%40+Ipoteka+Bank+OTP+Group;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Clean+Architecture+enthusiast;Based+in+Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Ipoteka+Bank+OTP+Group;Android+%7C+iOS+%7C+Backend;Kotlin+%7C+Swift+%7C+Go+%7C+Dart;Clean+Architecture+%26+SOLID;Based+in+Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,20 +23,33 @@
 
 ```kotlin
 object Shahzod {
-    val role      = "Android Engineer"
+    val role      = "Software Engineer"
     val company   = "Ipoteka Bank · OTP Group"
     val location  = "Tashkent, Uzbekistan"
-    val focus     = listOf("Jetpack Compose", "Clean Architecture", "MVVM", "Coroutines & Flow")
-    val exploring = listOf("Kotlin Multiplatform", "Ktor", "SwiftUI")
+    val mobile    = listOf("Android (Kotlin, Compose)", "iOS (Swift)", "Flutter (Dart)")
+    val backend   = listOf("Ktor", "Go", "REST APIs", "Telegram bots")
+    val practices = listOf("Clean Architecture", "SOLID", "MVVM", "DI", "Coroutines & Flow")
+    val exploring = listOf("Kotlin Multiplatform", "System Design")
     val languages = listOf("Uzbek", "Russian", "English")
 }
 ```
 
 ### 🛠 Tech stack
 
+**Languages**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,dart,go&theme=dark" alt="languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,git,github,postman,figma&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,dart,go&theme=dark" alt="languages" />
+</p>
+
+**Mobile · Backend · Data**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,ktor,firebase&theme=dark" alt="frameworks" />
+</p>
+
+**Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gradle,postman,figma,linux&theme=dark" alt="tools" />
 </p>
 
 <p align="center">
